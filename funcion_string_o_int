@@ -1,0 +1,1 @@
+validacionStringOrInt = int(input("¿Desea trabajar solo con INT? Escriba 1 para Yes, 0 para Not "))
